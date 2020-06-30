@@ -7,9 +7,18 @@ WHAT TO PLACE IN THIS DIRECTORY?
 
 Just put the folder info (core/profiles).
 
-Credit
+Development contributors
 --------------------------------
+Essam Al-Qaie https://twitter.com/essamalqaie?lang=en 
 Nawaf Alhussian
-Essam Al-Qaie
-Raed Alkhurayji
 Saud bin Mohammed 
+Raed Alkhurayji
+
+Creative content writers/translators
+-------------------------------
+Hanan Al-Shahrani https://twitter.com/s_be100
+Abdullah Omar https://twitter.com/3bdullahomar1
+Shaymaa Hasan https://twitter.com/ShaymaaHasan5
+Al-Bandari https://twitter.com/albandri960
+
+

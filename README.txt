@@ -19,6 +19,6 @@ Creative content writers/translators
 Hanan Al-Shahrani https://twitter.com/s_be100
 Abdullah Omar https://twitter.com/3bdullahomar1
 Shaymaa Hasan https://twitter.com/ShaymaaHasan5
-Al-Bandari https://twitter.com/albandri960
-
-
+Al-Bandari Al Shahrani https://twitter.com/albandri960
+Maryam Al Nahari https://twitter.com/NahariMazy
+Fayza Al Ahmari https://twitter.com/MohFayzah
